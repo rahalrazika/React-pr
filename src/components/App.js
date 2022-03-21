@@ -1,9 +1,10 @@
-import './App.css';
+import '../style/App.css';
+import Counter from './Counter';
 
 function App() {
   return (
     <div className="App">
-      <h1>Video Recorder</h1>
+     <Counter />
     </div>
   );
 }

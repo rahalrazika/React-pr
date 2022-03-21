@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+   
+}
+.title {
+ font-size: 70px;
+ font-weight: 800;
+ color: blue;
+}
+
+.counter {
+  font-size: 50px;
+ font-weight: 800;
+ background-color: black;
+ color: white;
+ border-radius: 5%;
+}
+
+.btn {
+    margin: 29px;
+    width: 11rem;
+    height: 9rem;
+    border-radius: 50%;
+    border: 1px black;
+    color: white;
+   font-weight: 500;
+}
+
+.btn-inc {
+ background-color: green;
+ 
+}
+
+.btn-desc {
+  background-color: red;
+
+}
